@@ -1,2 +1,2 @@
 # Mobile-sales-project
-Excel end to end project mobile sales on flipcart
+Excel end to end project mobile sales on flipkart
